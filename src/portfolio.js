@@ -26,7 +26,7 @@ const greeting = {
         "🔥🚀 Dedicated, enthusiastic, self-taught developer with a passion for backend development! 💻 Proficient in Javascript, Node.js, React, MongoDB and some other cool libraries. 🌟 Specializes in crafting robust and efficient backend solutions! 🛠️ Eager to contribute and grow! Let's build something incredible! 🎉🚀"
     ),
     resumeLink:
-        "https://drive.google.com/file/d/1ucTlvfel_t2-yILE-gQORozBAC3Xh9ce/view?usp=sharing", // Set to empty to hide the button
+        "https://docs.google.com/document/d/e/2PACX-1vQHFP2Dvi_jF4K_xBWxviHP9YrEirGIKP-b26grNeblpFkPmfKXA_E6oRTtRtgu7A/pub", // Set to empty to hide the button
     displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -312,7 +312,7 @@ const contactInfo = {
     title: emoji("Contact Me ☎️"),
     subtitle:
         "Discuss a project or just want to say hi? My Inbox is open for all.",
-    number: "+254752302021",
+    number: "",
     email_address: "mainaderiq@gmail.com"
 };
 
